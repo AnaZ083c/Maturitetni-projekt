@@ -2,7 +2,7 @@
  
  Link do videa delovanja: https://youtu.be/OalfhV8RtEE <br>
  <br>
-V mapi Matura so še 4 mape in 1 PowerPoint predstavitev, katero sem uporabila za predstavitev projekta za maturo.<br><br>
+V mapi **Matura** so še 4 mape in 1 PowerPoint predstavitev, katero sem uporabila za predstavitev projekta za maturo.<br><br>
 ## 4 mape 
 Izmed vseh 4-ih map, so pomembne 3: 
 1. **build-Avtomatiziran_Ksilofon_GUI-Desktop_Qt_5_10_0_MinGW_32bit-Release**, kjer se nahaja uporabniški vmesnik; v podmapi **release**<br>
